@@ -136,8 +136,8 @@ This project is licensed under the MIT License.
 
 For any inquiries or feedback, feel free to reach out:
 
-* **Email:** [your-email@example.com](badhonraniroy@gmail.com)
-* **GitHub:** [your-username](https://github.com/Badhon40)
+* **Email:** (badhonraniroy@gmail.com)
+* **GitHub:** (https://github.com/Badhon40)
 
 
 Happy Learning! 📘✨
